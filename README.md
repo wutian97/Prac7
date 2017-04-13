@@ -192,5 +192,5 @@ flourishAndBlotts.addBook(spellBook, 20);
 flourishAndBlotts.sellBook(spellBook, 15);
 flourishAndBlotts.addBook(monsterBookToSell, 30);
 flourishAndBlotts.sellBook(monsterBookToSell, 750);
-// hello
+// Newton Scamander 
 console.log("Authors known: " + listOfAllKnownAuthors);
